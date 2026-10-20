@@ -1,0 +1,6 @@
+{
+  "name": "Harsh Bodar Portfolio",
+  "description": "Harsh Bodar - Retro Pixel Art Developer Portfolio with central emoji animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
